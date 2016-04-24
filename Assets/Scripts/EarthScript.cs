@@ -180,7 +180,7 @@ public class EarthScript : MonoBehaviour {
                 rightHand = hand;
             }
         });
-
+        
         if (rightHand != null)
         {
             var rightFingers = rightHand.Fingers;
